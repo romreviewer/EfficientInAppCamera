@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary">#273C43</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="primary_bg">#F6F6F6</color>
+    <color name="primary_stroke">#DEDEDE</color>
+    <color name="accent_color_primary">#258A95</color>
+
+
+    <!--Grey-->
+    <color name="md_grey50">#fffafafa</color>
+    <color name="md_grey100">#fff5f5f5</color>
+    <color name="md_grey200">#ffeeeeee</color>
+    <color name="md_grey300">#ffe0e0e0</color>
+    <color name="md_grey400">#ffbabec0</color>
+    <color name="md_grey500">#ff9e9e9e</color>
+    <color name="md_grey600">#ff757575</color>
+    <color name="md_grey700">#ff616161</color>
+    <color name="md_grey800">#ff424242</color>
+    <color name="md_grey900">#ff212121</color>
+
+    <!--    Background-->
+    <color name="bg_wild_sand">#F5F5F5</color>
+    <color name="bg_white">#FFFFFF</color>
+    <color name="bg_genoa">#127D79</color>
+    <color name="bg_alto">#D4D4D4</color>
+    <color name="bg_gull_gray">#92ACB5</color>
+    <color name="bg_limed_spruce">#3A525A</color>
+    <color name="bg_iron">#D6DCDF</color>
+    <color name="bg_turquoise">#48D1CC</color>
+    <color name="yellow">#FBC02D</color>
+    <!--    Stroke-->
+    <color name="st_alto">#DCDCDC</color>
+    <color name="st_turquoise">#48D1CC</color>
+    <color name="st_white">#FFFFFF</color>
+    <color name="st_iceberg">#CAF1EF</color>
+    <color name="st_iron">#D6DCDF</color>
+    <color name="st_black_haze">#E8EBEA</color>
+    <color name="st_silver">#BCBCBC</color>
+
+    <!--    Text-->
+    <color name="tx_genoa">#127D79</color>
+    <color name="tx_gray">#8B8B8B</color>
+    <color name="tx_boulder">#7B7B7B</color>
+    <color name="tx_alto">#DCDCDC</color>
+    <color name="tx_white">#FFFFFF</color>
+    <color name="tx_cod_gray">#131313</color>
+    <color name="tx_turquoise">#48D1CC</color>
+    <color name="tx_iceberg">#CAF1EF</color>
+    <color name="tx_limed_spruce">#3A525A</color>
+    <color name="tx_silver">#BCBCBC</color>
+    <!--    Barcode-->
+    <color name="barcode_reticle_background">#99000000</color>
+    <color name="barcode_reticle_stroke">#40000000</color>
+    <color name="barcode_field_value">#797979</color>
+    <color name="barcode_field_box_stroke">#757575</color>
+    <color name="reticle_ripple">#9AFFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="dark">#9A000000</color>
+    <color name="red">#F44336</color>
+    <color name="orange">#FD7341</color>
+    <color name="mtrl_textinput_default_box_stroke_color" tools:override="true">@color/white</color>
+    <color name="yellow_color">#e59c1e</color>
+    <color name="royal_blue">#213454</color>
+    <color name="royal_blue_2">#172B4D</color>
+
+    <!--Button Color-->
+    <color name="cash_submit_color">#48D1CC</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+    <color name="light_blue_A200">#FF40C4FF</color>
+    <color name="light_blue_A400">#FF00B0FF</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="button_color_primary">#258A95</color>
+    <color name="button_color_primary_stroke">#217882</color>
+
+    <color name="executive_item_bg">#FFFFFF</color>
+    <color name="primary_toolbar_color">#292929</color>
+
+    <color name="material_green">#98ee99</color>
+    <color name="accept_green">#7cb342</color>
+
+    <color name="card_green_light">#f44336</color>
+    <color name="card_green_dark">#ba000d</color>
+    <color name="blue_gray">#9fa8da</color>
+    <color name="philippine_silver">#B1B1B1</color>
+    <color name="chinese_silver">#CCCCCC</color>
+    <color name="robbin_egg_blue">#02DAC5</color>
+    <color name="electric_indigo">#6200ED</color>
+    <color name="macaroni_n_cheese">#FFB48C</color>
+    <color name="cinnabar">#E83D3D</color>
+    <color name="linen">#FBEEE7</color>
+    <color name="anti_flash_white">#F1F1F1</color>
+    <color name="nickel">#6F7570</color>
+    <color name="brigth_gray">#ECEDF2</color>
+    <color name="dark_slate_blue">#4B4495</color>
+    <color name="kelly_green">#43B800</color>
+    <color name="sinopia">#E33D00</color>
+    <color name="spanish_gray">#999999</color>
+    <color name="cultured">#F6F7F9</color>
+
+</resources>

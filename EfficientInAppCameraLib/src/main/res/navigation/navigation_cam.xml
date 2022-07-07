@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_efficient_camera"
+    app:startDestination="@layout/fragment_camera">
+    <dialog
+        android:id="@+id/nav_capture_image"
+        android:name="com.romreviewer.efficientinappcameralib.ui.FragmentCamera"
+        tools:layout="@layout/fragment_camera">
+        <action
+            android:id="@+id/action_go_to_captured_image_preview_fragment"
+            app:destination="@id/nav_preview_image"
+            app:popUpTo="@+id/image_capture_fragment"
+            app:popUpToInclusive="true" />
+        <deepLink app:uri="android-app://com.romreviewer.efficientinappcameralib.ui/FragmentCamera" />
+    </dialog>
+
+    <dialog
+        android:id="@+id/nav_preview_image"
+        android:name="com.romreviewer.efficientinappcameralib.ui.CapturedImagePreviewFragment"
+        tools:layout="@layout/fragment_captured_image_preview">
+    </dialog>
+</navigation>
